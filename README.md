@@ -1,3 +1,5 @@
 # PowerBI-Game-Viz
 A visualization of a video games sales dataset.
-[GamesDataViz.pdf](https://github.com/AviroopPaul/PowerBI-Game-Viz/files/11254130/GamesDataViz.pdf)
+
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/72408663/232573149-f843a420-62c7-40f7-a0f9-fcac391ea3a4.png">
+
